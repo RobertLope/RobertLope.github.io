@@ -3,8 +3,8 @@ body{
 }
 
 #imageProfile{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 100px;
     border-color: black;
     border-style: solid;
@@ -28,12 +28,12 @@ body{
     padding-left: 5%;
     align-self: center;
     height: 40%;
-    width: 40%;
+    width: 15%;
 }
 
 .imagePict{
   height: 40%;
-  width: 40%;
+  width: 20%;
 }
 
 .social_media{
@@ -44,9 +44,15 @@ body{
     text-shadow: 2px 2px 5px red;
     size: 50px;
 }
+
+.personalinfo{
+  width: 25%;
+ 
+}
+
 #icon{
-    width: 20px;
-    height: 20px;
+    width: 50px;
+    height: 50px;
     margin-right: 10px;
     border-radius: 50px;
 }
