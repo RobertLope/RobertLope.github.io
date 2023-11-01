@@ -19,15 +19,21 @@ body{
     margin-bottom: -10px;
     border-radius: 5px;
     padding-bottom: 5px ;
+    flex-direction: row;
+    align-items: flex-start;
   }
 
-.imagePict{
-    padding-left: 18%;
-}
 
 .name_text{
     padding-left: 5%;
     align-self: center;
+    height: 40%;
+    width: 40%;
+}
+
+.imagePict{
+  height: 40%;
+  width: 40%;
 }
 
 .social_media{
